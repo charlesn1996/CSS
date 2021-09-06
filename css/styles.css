@@ -21,11 +21,13 @@ h3 {
 .top-container {
   background-color: powderblue;
   padding-top: 100px;
+  padding-bottom: 200px;
   height: 100%;
 }
 
 .middle-container {
   background-color: #66bfbf;
+  padding-top: 20px;
   padding-bottom: 10px;
   height: 100%;
 }
@@ -48,8 +50,8 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  bottom: 60%;
-  left: 300px
+  bottom: 70%;
+  left: 20%
 }
 .skills {
   background-color: #66bfbf;
