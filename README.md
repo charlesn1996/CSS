@@ -1,2 +1,1 @@
-# CSS-Site
-Personal website
+# Personal Website built with HTML/CSS
